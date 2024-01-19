@@ -3,9 +3,7 @@ A machine learning model capable of predicting whether or not someone has heart 
 
 Here are some conclusions from this project:
 
-Category	Precision	Recall	F1-score	Support
-Negative	  0.89	    0.86	   0.88	     29
-Positive	  0.88	    0.91	   0.89	     32
+![Image Alt text](classification_report.jpg "Classification Report")
 
 ** Precision is the ratio of correctly predicted positive cases to all predicted positive cases. In this case, for the "Negative" category, the model predicted 29 cases as negative, and 26 of those were actually negative. So, the precision for the "Negative" category is 26/29 = 0.89.
 
