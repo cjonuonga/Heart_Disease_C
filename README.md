@@ -12,3 +12,5 @@ Here are some conclusions from this project:
 
 
 ** F1-score is a harmonic mean of precision and recall. It takes both precision and recall into account and is a better measure of a model's performance when the classes are imbalanced. In this case, the F1-score for both categories is around 0.88.
+
+See Jupyter Notebook for details of this project: [heart_disease_classification_model_jnbk.ipynb](README.md)
